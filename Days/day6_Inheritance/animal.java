@@ -1,17 +1,15 @@
 package day6_Inheritance;
 
 //parent class
-class Animal {
+public class animal {
 	void eat() {
 		System.out.println("This animal eats food.");
 	}
 }
 
 //child class
-class Dog extends Animal{
+class Dog extends animal{
 	void bark() {
 		System.out.println("Dog barks.");
 	}
 }
-
-
