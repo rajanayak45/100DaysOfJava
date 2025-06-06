@@ -11,7 +11,7 @@ class Person{
 	static int ears;
 	
 	String name;
-	double height;
+	double height; 
 	double weight;
 	
 	void eat() {
