@@ -1,4 +1,4 @@
-package super_to_callSuperclass_Constructor;
+package day6_super_to_callSuperclass_Constructor;
 
 //Superclass(Parent class)
 class Super_to_SuperConstructor{
