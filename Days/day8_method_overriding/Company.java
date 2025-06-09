@@ -1,4 +1,4 @@
-package method_overriding;
+package day8_method_overriding;
 
 class Employee{
 	protected String name;
